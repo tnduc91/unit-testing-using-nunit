@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{ACB4A859-482A-4C87-A2DA-882CAF6DCF26}|Default">
+  <MonoDevelop.Ide.ItemProperties.PrimeService.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrimeService/PrimeService.cs">
+    <Files>
+      <File FileName="PrimeService.Test/PrimeService_IsPrimeShould.cs" Line="28" Column="22" />
+      <File FileName="PrimeService/PrimeService.cs" Line="9" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="unit-testing-using-nunit" expanded="True">
+            <Node name="PrimeService" expanded="True">
+              <Node name="PrimeService.cs" selected="True" />
+            </Node>
+            <Node name="PrimeService.Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

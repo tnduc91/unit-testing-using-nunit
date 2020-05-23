@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yws7C1fYu0wpNmtoQ0nHiCVI5BqX+EhNk3nGbHtS9WVfAaGnAmDNB0Tw6TpIQfPb6nV2f82cFsWI6ud9vW/P6Q==",
+  "success": true,
+  "projectFilePath": "/Users/duc/Documents/Coding/unit-testing-using-nunit/PrimeService/PrimeService.csproj",
+  "expectedPackageFiles": [
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/duc/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
