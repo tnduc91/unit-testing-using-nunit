@@ -1,6 +1,6 @@
 using NUnit.Framework;
 using NUnit.Framework.Constraints;
-
+using System;
 namespace Syntax.Test
 {
     [TestFixture]
@@ -20,6 +20,15 @@ namespace Syntax.Test
         public void Test2()
         {
             Assert.That("Hello", Is.EqualTo("Hello"));
+        }
+
+        [Test]
+        public void Test_Constraint_IsSameAs()
+        {
+            var e1 = new Exception();
+            var e2 = new Exception();
+            var e3 = e1;
+            Assert.That(e1, Is.SameAs(e3));
         }
     }
 }
