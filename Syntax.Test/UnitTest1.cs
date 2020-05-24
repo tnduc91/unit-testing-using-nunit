@@ -23,6 +23,7 @@ namespace Syntax.Test
         }
 
         [Test]
+        [Category("sample_category")]
         public void Test_Constraint_IsSameAs()
         {
             var e1 = new Exception();
